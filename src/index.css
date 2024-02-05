@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --surface-color: #1B1D1F;
+  --background-color: #111315;
+  --text-color: #6F757C;
+  --badge-price-color: #BEE3CC;
+  --primary-text-color: #FEF7EE;
+  --badge-popular-color: #F6C768;
+  --sold-out-color: #ED735D;
+
+  --heading-text-size: 2rem;
+  --body-text-size: 1rem;
+  --label-text-size: 0.875rem;
+  --small-text-size: 0.625rem;
+  --price-text-size: 0.75rem;
+
+
+  font-family: DM Sans, system-ui, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 16px;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: var(--background-color);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+
