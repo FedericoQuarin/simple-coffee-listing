@@ -23,6 +23,7 @@
 ## Table of content
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -30,6 +31,11 @@
 
 The challenge was to build a web page based on a given picture. The only other requierement was to implement a reusable card component. The data has to be obtained from an API, and the card must adapt to the data throw some variables.
 I used this challenge as a first React practice. My intention was to use all my recently adquiere knowledges about this framework in a full frontend practice.
+
+## Screenshots
+
+![image](https://github.com/FedericoQuarin/simple-coffee-listing/assets/54511211/5b09bbfb-b37c-4a0c-8074-d770cea1e01b)
+![image](https://github.com/FedericoQuarin/simple-coffee-listing/assets/54511211/5164eb45-5980-48a9-90fe-c5674ce65672)
 
 ## Features
 
