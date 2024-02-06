@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://simple-coffee-listing-b7d5c.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://simple-coffee-listing-b7d5c.web.app/">
       Solution
     </a>
     <span> | </span>
